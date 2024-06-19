@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @jaser4422
-- 👀 I’m interested in bioinformatics and computational biology 
-- 🌱 I’m currently learning biology 
+- 👋 Hi, I’m chadi ouechtati 
+- 🌱 I’m a biology with an interest in bioinformatiques
 - 📫 How to reach me chadi4422@gmail.com
 
 <!---
